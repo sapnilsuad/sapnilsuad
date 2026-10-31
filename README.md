@@ -1,84 +1,105 @@
- <div align="center">
+<div align="center">
 
-# Hey, I'm Sapnil 👋
+<img src="https://raw.githubusercontent.com/sapnilsuad/sapnilsuad/main/assets/header.svg" width="100%" alt="Sapnil — Full-Stack Developer, Founder, Product Builder" />
 
-### Full-Stack Developer · Founder · Product Builder
+<a href="https://github.com/sapnilsuad">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&repeat=true&width=760&height=48&lines=Turning+ideas+into+useful+software;Building+Qunnix+%E2%80%94+a+student-focused+ecosystem;Founder+of+NIVE+Inc.;Building+products%2C+not+just+projects." alt="Typing animation" />
+</a>
 
-I build digital products that solve real problems.
+<br/>
 
-Turning ideas into useful software, one commit at a time.
-
-[![Website](https://img.shields.io/badge/Qunnix-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=white)](https://qunnix.com)
+[![Qunnix](https://img.shields.io/badge/Qunnix-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=white)](https://qunnix.com)
+[![NIVE Inc.](https://img.shields.io/badge/NIVE_Inc.-8B5CF6?style=for-the-badge&logo=rocket&logoColor=white)](https://qunnix.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sapnilsuad)
+[![Bangladesh](https://img.shields.io/badge/Bangladesh-EC4899?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/sapnilsuad/sapnilsuad/main/assets/divider.svg" width="100%" alt="" />
 
-## `$ whoami`
+## ✨ About Me
 
-I'm Sapnil, a Software Engineering student and full-stack developer from Bangladesh.
+<table>
+<tr>
+<td width="55%" valign="top">
 
-I enjoy taking ideas from concept to reality — designing, developing, and building products that people can actually use.
+```js
+const sapnil = {
+  role:      "Full-Stack Developer & Founder",
+  studying:  "Software Engineering",
+  location:  "Bangladesh 🇧🇩",
+  company:   "NIVE Inc.",
+  building:  ["Qunnix", "QFlow", "Scanix"],
+  stack:     ["PHP", "Laravel", "React", "MySQL"],
+  focus:     ["Full-stack", "Product engineering", "Entrepreneurship"],
+  mindset:   "Always learning. Always building.",
+};
+```
 
-- 🚀 Founder of **NIVE Inc.**
-- 🌐 Building **[Qunnix](https://qunnix.com)** — a student-focused digital ecosystem.
-- 💻 Interested in full-stack development, product engineering, and entrepreneurship.
-- 🧠 Always learning, experimenting, and building something new.
+</td>
+<td width="45%" valign="top">
 
-> **Building products, not just projects.**
+I enjoy taking ideas from **concept to reality** — designing, developing, and shipping products that people can actually use.
 
----
+🚀 Founder of **NIVE Inc.**
+🌐 Building **[Qunnix](https://qunnix.com)**, a student-focused digital ecosystem
+🧠 Constantly experimenting with new ideas
+
+> *Building products, not just projects.*
+
+</td>
+</tr>
+</table>
+
+<img src="https://raw.githubusercontent.com/sapnilsuad/sapnilsuad/main/assets/divider.svg" width="100%" alt="" />
 
 ## 🛠️ Tech Stack
 
-**Languages & Core Technologies**
+<div align="center">
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+<table>
+<tr>
+<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="48" height="48" alt="PHP" /><br/><sub><b>PHP</b></sub></td>
+<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="48" height="48" alt="Laravel" /><br/><sub><b>Laravel</b></sub></td>
+<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" /><br/><sub><b>JavaScript</b></sub></td>
+<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="48" height="48" alt="React" /><br/><sub><b>React</b></sub></td>
+<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5" /><br/><sub><b>HTML5</b></sub></td>
+</tr>
+<tr>
+<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3" /><br/><sub><b>CSS3</b></sub></td>
+<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="48" height="48" alt="Bootstrap" /><br/><sub><b>Bootstrap</b></sub></td>
+<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" /><br/><sub><b>MySQL</b></sub></td>
+<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="48" height="48" alt="Git" /><br/><sub><b>Git</b></sub></td>
+<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="48" height="48" alt="VS Code" /><br/><sub><b>VS Code</b></sub></td>
+</tr>
+</table>
 
-**Frameworks & Libraries**
+</div>
 
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+<img src="https://raw.githubusercontent.com/sapnilsuad/sapnilsuad/main/assets/divider.svg" width="100%" alt="" />
 
-**Database & Tools**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-
----
-
-## 🚀 Things I'm Building
+## 🚀 What I'm Building
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🌐 Qunnix
+### 🌐 [Qunnix](https://qunnix.com)
+A student-focused digital ecosystem that connects students with **opportunities, resources, and meaningful connections.**
 
-A student-focused digital ecosystem designed to connect students with opportunities, resources, and meaningful connections.
+`Networking` `Academic tools` `Opportunities`
 
-**Building:** Student networking, academic tools, and opportunities.
-
-[Explore Qunnix →](https://qunnix.com)
+**[Explore Qunnix →](https://qunnix.com)**
 
 </td>
 <td width="50%" valign="top">
 
 ### ⚡ QFlow
+A student organization and **class representative management** tool.
 
-A student organization and class representative management tool.
+`Routines` `Tasks` `Notices` `Academic organization`
 
-**Building:** Routine management, tasks, notices, and academic organization.
-
-[Explore Qunnix →](https://qunnix.com)
+**Part of the Qunnix ecosystem**
 
 </td>
 </tr>
@@ -86,53 +107,72 @@ A student organization and class representative management tool.
 <td width="50%" valign="top">
 
 ### 📄 Scanix
+A simple tool for **turning images into PDF documents.**
 
-A simple tool for turning images into PDF documents.
+`Productivity` `Student utility`
 
-**Focus:** Making everyday student tasks easier.
+**Making everyday student tasks easier**
 
 </td>
 <td width="50%" valign="top">
 
 ### 🏢 NIVE Inc.
+My software company, where **ideas turn into digital solutions.**
 
-My software company, where ideas turn into digital solutions.
+`Web development` `Software services`
 
-**Focus:** Web development and software services.
+**From concept to production**
 
 </td>
 </tr>
 </table>
 
----
+<img src="https://raw.githubusercontent.com/sapnilsuad/sapnilsuad/main/assets/divider.svg" width="100%" alt="" />
 
 ## 📊 GitHub Overview
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=sapnilsuad&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Sapnil's GitHub statistics" />
+<table>
+<tr>
+<td align="center"><img src="https://raw.githubusercontent.com/sapnilsuad/sapnilsuad/main/profile-summary-card-output/tokyonight/0-profile-details.svg" width="420" alt="Profile details" /></td>
+<td align="center"><img src="https://raw.githubusercontent.com/sapnilsuad/sapnilsuad/main/profile-summary-card-output/tokyonight/3-stats.svg" width="420" alt="GitHub stats" /></td>
+</tr>
+<tr>
+<td align="center"><img src="https://raw.githubusercontent.com/sapnilsuad/sapnilsuad/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="420" alt="Repos per language" /></td>
+<td align="center"><img src="https://raw.githubusercontent.com/sapnilsuad/sapnilsuad/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="420" alt="Most commit language" /></td>
+</tr>
+</table>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sapnilsuad&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages" />
-
-<img width="90%" src="https://streak-stats.demolab.com?user=sapnilsuad&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+<img src="https://raw.githubusercontent.com/sapnilsuad/sapnilsuad/main/profile-summary-card-output/tokyonight/4-productive-time.svg" width="850" alt="Productive time" />
 
 </div>
 
----
+<br/>
+
+### 🐍 Contribution Snake
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sapnilsuad/sapnilsuad/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sapnilsuad/sapnilsuad/output/github-snake.svg" />
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/sapnilsuad/sapnilsuad/output/github-snake-dark.svg" width="100%" />
+</picture>
+</div>
+
+<img src="https://raw.githubusercontent.com/sapnilsuad/sapnilsuad/main/assets/divider.svg" width="100%" alt="" />
 
 ## 🤝 Let's Connect
 
-I'm always interested in connecting with developers, founders, and people who enjoy building meaningful things.
-
-- 🌐 **Qunnix:** https://qunnix.com
-- 💻 **GitHub:** https://github.com/sapnilsuad
-
----
+I'm always up for connecting with **developers, founders, and people who love building meaningful things.**
 
 <div align="center">
 
-*Building something meaningful, one commit at a time.*
-
-**Thanks for stopping by!** ⭐
+[![Qunnix](https://img.shields.io/badge/Visit-Qunnix-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=white)](https://qunnix.com)
+[![GitHub](https://img.shields.io/badge/Follow-@sapnilsuad-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sapnilsuad)
 
 </div>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/sapnilsuad/sapnilsuad/main/assets/footer.svg" width="100%" alt="Building products, not just projects." />
