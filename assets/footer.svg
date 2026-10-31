@@ -1,0 +1,31 @@
+<svg width="1200" height="140" viewBox="0 0 1200 140" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Building products, not just projects.">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="140" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0B1020"/>
+      <stop offset="0.5" stop-color="#17113F"/>
+      <stop offset="1" stop-color="#0B1020"/>
+    </linearGradient>
+    <linearGradient id="txt" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22D3EE"/>
+      <stop offset="0.5" stop-color="#A78BFA"/>
+      <stop offset="1" stop-color="#F472B6"/>
+    </linearGradient>
+    <filter id="blur" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="40"/></filter>
+    <clipPath id="clip"><rect width="1200" height="140" rx="24"/></clipPath>
+  </defs>
+  <g clip-path="url(#clip)">
+    <rect width="1200" height="140" fill="url(#bg)"/>
+    <g filter="url(#blur)">
+      <circle cx="250" cy="140" r="80" fill="#6366F1" opacity="0.7">
+        <animateTransform attributeName="transform" type="translate" values="0 0; 200 -30; 0 0" dur="12s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="950" cy="0" r="80" fill="#EC4899" opacity="0.5">
+        <animateTransform attributeName="transform" type="translate" values="0 0; -220 30; 0 0" dur="15s" repeatCount="indefinite"/>
+      </circle>
+    </g>
+    <rect x="300" y="30" width="600" height="80" rx="24" fill="#FFFFFF" fill-opacity="0.08"/>
+    <rect x="300.5" y="30.5" width="599" height="79" rx="23.5" stroke="#FFFFFF" stroke-opacity="0.25"/>
+    <text x="600" y="78" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="26" font-weight="700" letter-spacing="1" fill="url(#txt)">Building products, not just projects.</text>
+    <text x="600" y="100" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="13" letter-spacing="2" fill="#94A3B8">THANKS FOR STOPPING BY</text>
+  </g>
+</svg>
